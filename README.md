@@ -27,8 +27,9 @@ The dataset includes various meteorological parameters such as:
 ## 🔧 Installation & Setup
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/ygunjangyl/Rainfall_Prediction_System.git
+git clone https://github.com/gunjangyl/Rainfall_Prediction_System.git
 cd Rainfall_Prediction_System
+cd myproject
 ```
 
 2️⃣ Install dependencies:
@@ -38,7 +39,7 @@ pip install -r requirements.txt
 
 3️⃣ Run the system:
 ```bash
-python main.py
+python mmanage.py runserver
 ```
 
 ## 🏋️‍♂️ Model Training
