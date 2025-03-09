@@ -53,10 +53,10 @@ This will process the dataset and train the model using selected algorithms.
 - Model accuracy: **85-90%** (may vary based on dataset and parameters)
 - Evaluation Metrics: Mean Squared Error (MSE), R-Squared, etc.
 - Visualization of feature importance and model predictions.
-
+<br><br>
 
 ## DEMONSTRATION
-<br><br><br>
+<br><br>
 <b>Rainfall Prediction Dashboard<b>
 ![Image](https://github.com/user-attachments/assets/bb8fc660-ed31-4e48-9ef0-465745d2b5cf)
 <br><br>
