@@ -67,8 +67,8 @@ This will process the dataset and train the model using selected algorithms.
 ![Image](https://github.com/user-attachments/assets/dbe8c05b-d105-4e25-bccf-d5fea2f23e1b)
 <br><br>
 <b>User Input Page(For Input Data Example 2)</b>
-![Image](https://github.com/user-attachments/assets/8ff46df3-f555-475a-aa47-5eff8d29a1b6)
+![Image](https://github.com/user-attachments/assets/cc4cd55f-a76c-4078-bb0b-02f88df5d339)
 <br><br>
 <b>Forecast Output Page</b>
-![Image](https://github.com/user-attachments/assets/cc4cd55f-a76c-4078-bb0b-02f88df5d339)
+![Image](https://github.com/user-attachments/assets/8ff46df3-f555-475a-aa47-5eff8d29a1b6)
 
